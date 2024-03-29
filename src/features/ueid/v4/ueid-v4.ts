@@ -1,5 +1,5 @@
-import { getEmojiCodePoint } from "../../emoji/get-emoji-codepoint";
-import { uuidv4 } from "../../uuid/v4/uuid-v4"
+import { getEmojiCodePoint } from "@features/emoji/get-emoji-codepoint";
+import { uuidv4 } from "@features/uuid/v4/uuid-v4"
 
 export const ueidv4 = (): string => {
   const uuid = uuidv4();
