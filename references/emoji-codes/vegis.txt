@@ -1,0 +1,49 @@
+# Emoji Data for UTR #51
+#
+# File:    emoji-data.txt
+# Version: 1.0
+# Date:    2015-08-04
+#
+# Copyright (c) 2015 Unicode, Inc.
+# For terms of use, see http://www.unicode.org/terms_of_use.html
+# For documentation and usage, see http://www.unicode.org/reports/tr51/
+#
+# Format: Code ; Default_Emoji_Style ; Emoji_Level ; Emoji_Modifier_Status ; Emoji_Sources # Comment
+#
+#   Field 1 — Default_Emoji_Style:
+#             text:      default text presentation
+#             emoji:     default emoji presentation
+#   Field 2 — Emoji_Level:
+#             L1:        level 1 emoji
+#             L2:        level 2 emoji
+#             NA:        not applicable
+#   Field 3 — Emoji_Modifier_Status:
+#             modifier:  an emoji modifier
+#             primary:   a primary emoji modifier base
+#             secondary: a secondary emoji modifier base
+#             none:      not applicable
+#   Field 4 — Emoji_Sources:
+#             one or more values from {z, a, j, w, x}
+#             see the key in http://unicode.org/reports/tr51#Major_Sources
+#             NA:        not applicable
+#   Comment — currently contains the version where the character was first encoded,
+#             followed by:
+#             - a character name in uppercase (for a single character),
+#             - a keycap name,
+#             - an associated flag, where is associated with value unicode region code
+#
+1F345 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍅) TOMATO
+1F346 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍆) AUBERGINE
+1F347 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍇) GRAPES
+1F348 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍈) MELON
+1F349 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍉) WATERMELON
+1F34A ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍊) TANGERINE
+1F34B ;	emoji ;	L1 ;	none ;	x	# V6.0 (🍋) LEMON
+1F34C ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍌) BANANA
+1F34D ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍍) PINEAPPLE
+1F34E ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍎) RED APPLE
+1F34F ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍏) GREEN APPLE
+1F350 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🍐) PEAR
+1F351 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍑) PEACH
+1F352 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍒) CHERRIES
+1F353 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍓) STRAWBERRY

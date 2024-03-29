@@ -1,0 +1,114 @@
+# Emoji Data for UTR #51
+#
+# File:    emoji-data.txt
+# Version: 1.0
+# Date:    2015-08-04
+#
+# Copyright (c) 2015 Unicode, Inc.
+# For terms of use, see http://www.unicode.org/terms_of_use.html
+# For documentation and usage, see http://www.unicode.org/reports/tr51/
+#
+# Format: Code ; Default_Emoji_Style ; Emoji_Level ; Emoji_Modifier_Status ; Emoji_Sources # Comment
+#
+#   Field 1 — Default_Emoji_Style:
+#             text:      default text presentation
+#             emoji:     default emoji presentation
+#   Field 2 — Emoji_Level:
+#             L1:        level 1 emoji
+#             L2:        level 2 emoji
+#             NA:        not applicable
+#   Field 3 — Emoji_Modifier_Status:
+#             modifier:  an emoji modifier
+#             primary:   a primary emoji modifier base
+#             secondary: a secondary emoji modifier base
+#             none:      not applicable
+#   Field 4 — Emoji_Sources:
+#             one or more values from {z, a, j, w, x}
+#             see the key in http://unicode.org/reports/tr51#Major_Sources
+#             NA:        not applicable
+#   Comment — currently contains the version where the character was first encoded,
+#             followed by:
+#             - a character name in uppercase (for a single character),
+#             - a keycap name,
+#             - an associated flag, where is associated with value unicode region code
+#
+1F600 ;	emoji ;	L1 ;	secondary ;	x	# V6.1 (😀) GRINNING FACE
+1F601 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😁) GRINNING FACE WITH SMILING EYES
+1F602 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😂) FACE WITH TEARS OF JOY
+1F603 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😃) SMILING FACE WITH OPEN MOUTH
+1F604 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😄) SMILING FACE WITH OPEN MOUTH AND SMILING EYES
+1F605 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😅) SMILING FACE WITH OPEN MOUTH AND COLD SWEAT
+1F606 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😆) SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES
+1F607 ;	emoji ;	L1 ;	secondary ;	x	# V6.0 (😇) SMILING FACE WITH HALO
+1F608 ;	emoji ;	L1 ;	secondary ;	x	# V6.0 (😈) SMILING FACE WITH HORNS
+1F609 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😉) WINKING FACE
+1F60A ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😊) SMILING FACE WITH SMILING EYES
+1F60B ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😋) FACE SAVOURING DELICIOUS FOOD
+1F60C ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😌) RELIEVED FACE
+1F60D ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😍) SMILING FACE WITH HEART-SHAPED EYES
+1F60E ;	emoji ;	L1 ;	secondary ;	x	# V6.0 (😎) SMILING FACE WITH SUNGLASSES
+1F60F ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😏) SMIRKING FACE
+1F610 ;	emoji ;	L1 ;	secondary ;	w	# V6.0 (😐) NEUTRAL FACE
+1F611 ;	emoji ;	L1 ;	secondary ;	x	# V6.1 (😑) EXPRESSIONLESS FACE
+1F612 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😒) UNAMUSED FACE
+1F613 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😓) FACE WITH COLD SWEAT
+1F614 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😔) PENSIVE FACE
+1F615 ;	emoji ;	L1 ;	secondary ;	x	# V6.1 (😕) CONFUSED FACE
+1F616 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😖) CONFOUNDED FACE
+1F617 ;	emoji ;	L1 ;	secondary ;	x	# V6.1 (😗) KISSING FACE
+1F618 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😘) FACE THROWING A KISS
+1F619 ;	emoji ;	L1 ;	secondary ;	x	# V6.1 (😙) KISSING FACE WITH SMILING EYES
+1F61A ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😚) KISSING FACE WITH CLOSED EYES
+1F61B ;	emoji ;	L1 ;	secondary ;	x	# V6.1 (😛) FACE WITH STUCK-OUT TONGUE
+1F61C ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😜) FACE WITH STUCK-OUT TONGUE AND WINKING EYE
+1F61D ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😝) FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES
+1F61E ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😞) DISAPPOINTED FACE
+1F61F ;	emoji ;	L1 ;	secondary ;	x	# V6.1 (😟) WORRIED FACE
+1F620 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😠) ANGRY FACE
+1F621 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😡) POUTING FACE
+1F622 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😢) CRYING FACE
+1F623 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😣) PERSEVERING FACE
+1F624 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😤) FACE WITH LOOK OF TRIUMPH
+1F625 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😥) DISAPPOINTED BUT RELIEVED FACE
+1F626 ;	emoji ;	L1 ;	secondary ;	x	# V6.1 (😦) FROWNING FACE WITH OPEN MOUTH
+1F627 ;	emoji ;	L1 ;	secondary ;	x	# V6.1 (😧) ANGUISHED FACE
+1F628 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😨) FEARFUL FACE
+1F629 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😩) WEARY FACE
+1F62A ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😪) SLEEPY FACE
+1F62B ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😫) TIRED FACE
+1F62C ;	emoji ;	L1 ;	secondary ;	x	# V6.1 (😬) GRIMACING FACE
+1F62D ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😭) LOUDLY CRYING FACE
+1F62E ;	emoji ;	L1 ;	secondary ;	x	# V6.1 (😮) FACE WITH OPEN MOUTH
+1F62F ;	emoji ;	L1 ;	secondary ;	x	# V6.1 (😯) HUSHED FACE
+1F630 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😰) FACE WITH OPEN MOUTH AND COLD SWEAT
+1F631 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😱) FACE SCREAMING IN FEAR
+1F632 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😲) ASTONISHED FACE
+1F633 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😳) FLUSHED FACE
+1F634 ;	emoji ;	L1 ;	secondary ;	x	# V6.1 (😴) SLEEPING FACE
+1F635 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😵) DIZZY FACE
+1F636 ;	emoji ;	L1 ;	secondary ;	x	# V6.0 (😶) FACE WITHOUT MOUTH
+1F637 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😷) FACE WITH MEDICAL MASK
+1F638 ;	emoji ;	L1 ;	none ;	j	# V6.0 (😸) GRINNING CAT FACE WITH SMILING EYES
+1F639 ;	emoji ;	L1 ;	none ;	j	# V6.0 (😹) CAT FACE WITH TEARS OF JOY
+1F63A ;	emoji ;	L1 ;	none ;	j	# V6.0 (😺) SMILING CAT FACE WITH OPEN MOUTH
+1F63B ;	emoji ;	L1 ;	none ;	j	# V6.0 (😻) SMILING CAT FACE WITH HEART-SHAPED EYES
+1F63C ;	emoji ;	L1 ;	none ;	j	# V6.0 (😼) CAT FACE WITH WRY SMILE
+1F63D ;	emoji ;	L1 ;	none ;	j	# V6.0 (😽) KISSING CAT FACE WITH CLOSED EYES
+1F63E ;	emoji ;	L1 ;	none ;	j	# V6.0 (😾) POUTING CAT FACE
+1F63F ;	emoji ;	L1 ;	none ;	j	# V6.0 (😿) CRYING CAT FACE
+1F640 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🙀) WEARY CAT FACE
+1F641 ;	emoji ;	L2 ;	secondary ;	x	# V7.0 (🙁) SLIGHTLY FROWNING FACE
+1F642 ;	emoji ;	L2 ;	secondary ;	x	# V7.0 (🙂) SLIGHTLY SMILING FACE
+1F643 ;	emoji ;	L2 ;	secondary ;	x	# V8.0 (🙃) UPSIDE-DOWN FACE
+1F644 ;	emoji ;	L2 ;	secondary ;	x	# V8.0 (🙄) FACE WITH ROLLING EYES
+1F645 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (🙅) FACE WITH NO GOOD GESTURE
+1F646 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (🙆) FACE WITH OK GESTURE
+1F647 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (🙇) PERSON BOWING DEEPLY
+1F648 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🙈) SEE-NO-EVIL MONKEY
+1F649 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🙉) HEAR-NO-EVIL MONKEY
+1F64A ;	emoji ;	L1 ;	none ;	j	# V6.0 (🙊) SPEAK-NO-EVIL MONKEY
+1F64B ;	emoji ;	L1 ;	primary ;	j	# V6.0 (🙋) HAPPY PERSON RAISING ONE HAND
+1F64C ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (🙌) PERSON RAISING BOTH HANDS IN CELEBRATION
+1F64D ;	emoji ;	L1 ;	primary ;	j	# V6.0 (🙍) PERSON FROWNING
+1F64E ;	emoji ;	L1 ;	primary ;	j	# V6.0 (🙎) PERSON WITH POUTING FACE
+1F64F ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (🙏) PERSON WITH FOLDED HANDS

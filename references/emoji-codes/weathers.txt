@@ -1,0 +1,67 @@
+# Emoji Data for UTR #51
+#
+# File:    emoji-data.txt
+# Version: 1.0
+# Date:    2015-08-04
+#
+# Copyright (c) 2015 Unicode, Inc.
+# For terms of use, see http://www.unicode.org/terms_of_use.html
+# For documentation and usage, see http://www.unicode.org/reports/tr51/
+#
+# Format: Code ; Default_Emoji_Style ; Emoji_Level ; Emoji_Modifier_Status ; Emoji_Sources # Comment
+#
+#   Field 1 — Default_Emoji_Style:
+#             text:      default text presentation
+#             emoji:     default emoji presentation
+#   Field 2 — Emoji_Level:
+#             L1:        level 1 emoji
+#             L2:        level 2 emoji
+#             NA:        not applicable
+#   Field 3 — Emoji_Modifier_Status:
+#             modifier:  an emoji modifier
+#             primary:   a primary emoji modifier base
+#             secondary: a secondary emoji modifier base
+#             none:      not applicable
+#   Field 4 — Emoji_Sources:
+#             one or more values from {z, a, j, w, x}
+#             see the key in http://unicode.org/reports/tr51#Major_Sources
+#             NA:        not applicable
+#   Comment — currently contains the version where the character was first encoded,
+#             followed by:
+#             - a character name in uppercase (for a single character),
+#             - a keycap name,
+#             - an associated flag, where is associated with value unicode region code
+#
+1F300 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌀) CYCLONE
+1F301 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌁) FOGGY
+1F302 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌂) CLOSED UMBRELLA
+1F303 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌃) NIGHT WITH STARS
+1F304 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌄) SUNRISE OVER MOUNTAINS
+1F305 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌅) SUNRISE
+1F306 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌆) CITYSCAPE AT DUSK
+1F307 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌇) SUNSET OVER BUILDINGS
+1F308 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌈) RAINBOW
+1F309 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌉) BRIDGE AT NIGHT
+1F30A ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌊) WATER WAVE
+1F30B ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌋) VOLCANO
+1F30C ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌌) MILKY WAY
+1F30D ;	emoji ;	L1 ;	none ;	w	# V6.0 (🌍) EARTH GLOBE EUROPE-AFRICA
+1F30E ;	emoji ;	L1 ;	none ;	w	# V6.0 (🌎) EARTH GLOBE AMERICAS
+1F30F ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🌏) EARTH GLOBE ASIA-AUSTRALIA
+1F310 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🌐) GLOBE WITH MERIDIANS
+1F311 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌑) NEW MOON SYMBOL
+1F312 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🌒) WAXING CRESCENT MOON SYMBOL
+1F313 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌓) FIRST QUARTER MOON SYMBOL
+1F314 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌔) WAXING GIBBOUS MOON SYMBOL
+1F315 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🌕) FULL MOON SYMBOL
+1F316 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🌖) WANING GIBBOUS MOON SYMBOL
+1F317 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🌗) LAST QUARTER MOON SYMBOL
+1F318 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🌘) WANING CRESCENT MOON SYMBOL
+1F319 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌙) CRESCENT MOON
+1F31A ;	emoji ;	L1 ;	none ;	x	# V6.0 (🌚) NEW MOON WITH FACE
+1F31B ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌛) FIRST QUARTER MOON WITH FACE
+1F31C ;	emoji ;	L1 ;	none ;	w	# V6.0 (🌜) LAST QUARTER MOON WITH FACE
+1F31D ;	emoji ;	L1 ;	none ;	x	# V6.0 (🌝) FULL MOON WITH FACE
+1F31E ;	emoji ;	L1 ;	none ;	x	# V6.0 (🌞) SUN WITH FACE
+1F31F ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌟) GLOWING STAR
+1F320 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌠) SHOOTING STAR

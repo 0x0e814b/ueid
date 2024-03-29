@@ -1,0 +1,98 @@
+# Emoji Data for UTR #51
+#
+# File:    emoji-data.txt
+# Version: 1.0
+# Date:    2015-08-04
+#
+# Copyright (c) 2015 Unicode, Inc.
+# For terms of use, see http://www.unicode.org/terms_of_use.html
+# For documentation and usage, see http://www.unicode.org/reports/tr51/
+#
+# Format: Code ; Default_Emoji_Style ; Emoji_Level ; Emoji_Modifier_Status ; Emoji_Sources # Comment
+#
+#   Field 1 — Default_Emoji_Style:
+#             text:      default text presentation
+#             emoji:     default emoji presentation
+#   Field 2 — Emoji_Level:
+#             L1:        level 1 emoji
+#             L2:        level 2 emoji
+#             NA:        not applicable
+#   Field 3 — Emoji_Modifier_Status:
+#             modifier:  an emoji modifier
+#             primary:   a primary emoji modifier base
+#             secondary: a secondary emoji modifier base
+#             none:      not applicable
+#   Field 4 — Emoji_Sources:
+#             one or more values from {z, a, j, w, x}
+#             see the key in http://unicode.org/reports/tr51#Major_Sources
+#             NA:        not applicable
+#   Comment — currently contains the version where the character was first encoded,
+#             followed by:
+#             - a character name in uppercase (for a single character),
+#             - a keycap name,
+#             - an associated flag, where is associated with value unicode region code
+#
+1F400 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🐀) RAT
+1F401 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🐁) MOUSE
+1F402 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🐂) OX
+1F403 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🐃) WATER BUFFALO
+1F404 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🐄) COW
+1F405 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🐅) TIGER
+1F406 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🐆) LEOPARD
+1F407 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🐇) RABBIT
+1F408 ;	emoji ;	L1 ;	none ;	w	# V6.0 (🐈) CAT
+1F409 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🐉) DRAGON
+1F40A ;	emoji ;	L1 ;	none ;	x	# V6.0 (🐊) CROCODILE
+1F40B ;	emoji ;	L1 ;	none ;	x	# V6.0 (🐋) WHALE
+1F40C ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐌) SNAIL
+1F40D ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐍) SNAKE
+1F40E ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐎) HORSE
+1F40F ;	emoji ;	L1 ;	none ;	x	# V6.0 (🐏) RAM
+1F410 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🐐) GOAT
+1F411 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐑) SHEEP
+1F412 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐒) MONKEY
+1F413 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🐓) ROOSTER
+1F414 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐔) CHICKEN
+1F415 ;	emoji ;	L1 ;	none ;	w	# V6.0 (🐕) DOG
+1F416 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🐖) PIG
+1F417 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐗) BOAR
+1F418 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐘) ELEPHANT
+1F419 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐙) OCTOPUS
+1F41A ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐚) SPIRAL SHELL
+1F41B ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐛) BUG
+1F41C ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐜) ANT
+1F41D ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐝) HONEYBEE
+1F41E ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐞) LADY BEETLE
+1F41F ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🐟) FISH
+1F420 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐠) TROPICAL FISH
+1F421 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐡) BLOWFISH
+1F422 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐢) TURTLE
+1F423 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐣) HATCHING CHICK
+1F424 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐤) BABY CHICK
+1F425 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐥) FRONT-FACING BABY CHICK
+1F426 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🐦) BIRD
+1F427 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐧) PENGUIN
+1F428 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐨) KOALA
+1F429 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐩) POODLE
+1F42A ;	emoji ;	L1 ;	none ;	x	# V6.0 (🐪) DROMEDARY CAMEL
+1F42B ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐫) BACTRIAN CAMEL
+1F42C ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐬) DOLPHIN
+1F42D ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐭) MOUSE FACE
+1F42E ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐮) COW FACE
+1F42F ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐯) TIGER FACE
+1F430 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐰) RABBIT FACE
+1F431 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐱) CAT FACE
+1F432 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐲) DRAGON FACE
+1F433 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐳) SPOUTING WHALE
+1F434 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐴) HORSE FACE
+1F435 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐵) MONKEY FACE
+1F436 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐶) DOG FACE
+1F437 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐷) PIG FACE
+1F438 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐸) FROG FACE
+1F439 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐹) HAMSTER FACE
+1F43A ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐺) WOLF FACE
+1F43B ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐻) BEAR FACE
+1F43C ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐼) PANDA FACE
+1F43D ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐽) PIG NOSE
+1F43E ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐾) PAW PRINTS
+1F43F ;	text ;	L2 ;	none ;	w	# V7.0 (🐿) CHIPMUNK
