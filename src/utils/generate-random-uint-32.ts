@@ -1,5 +1,5 @@
 // support after node.js 17.4.0
-const UNSUPPORTED_CRYPTO = typeof crypto !== 'undefined' && typeof crypto.getRandomValues !== 'undefined'
+const IS_SUPPORTED_CRYPTO = typeof crypto !== 'undefined' && typeof crypto.getRandomValues !== 'undefined'
 const MAX_UINT_32 = Math.pow(2, 32);
 
 function getRandomWithMath(): number {
@@ -12,4 +12,4 @@ function getCryptoRandom(): number {
   return uintBuffer[0];
 }
 
-export default UNSUPPORTED_CRYPTO ? getRandomWithMath : getCryptoRandom;
+export default IS_SUPPORTED_CRYPTO ? getRandomWithMath : getCryptoRandom;
