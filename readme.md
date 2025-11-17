@@ -30,5 +30,5 @@ currently, just an idea.
 
 ## reference
 
-[unicode.org - emoji-data](http://www.unicode.org/Public/emoji/1.0/emoji-data.txt)
+[unicode.org - emoji-data](http://www.unicode.org/Public/emoji/1.0/emoji-data.txt)  
 [references](./references/)
