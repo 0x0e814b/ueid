@@ -12,4 +12,4 @@ function getCryptoRandom(): number {
   return uintBuffer[0];
 }
 
-export default IS_SUPPORTED_CRYPTO ? getRandomWithMath : getCryptoRandom;
+export default IS_SUPPORTED_CRYPTO ? getCryptoRandom : getRandomWithMath;
