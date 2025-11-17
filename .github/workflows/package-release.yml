@@ -1,0 +1,27 @@
+name: package-relase
+
+on: 
+  push:
+    tags:
+      - 'v[0-9]+.[0-9]+.[0-9]+'
+jobs:
+  publish-to-npm:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+      packages: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 10
+      - name: set up node version
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20.x
+          registry-url: "https://registry.npmjs.org/"
+      - run: npm install
+      - run: npm run build
+      - run: npm publish --access=public
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.NPM_KEY}}

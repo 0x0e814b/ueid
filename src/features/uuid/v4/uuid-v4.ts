@@ -1,5 +1,5 @@
-import { VARIANT_BITS_V4, VARIANT_MASK, VERSION_BITS_V4, VERSION_MASK } from "../../../constants/uuid-verisions.constant";
-import generateRandomUint32 from "../../../utils/generate-random-uint-32";
+import { VARIANT_BITS_V4, VARIANT_MASK, VERSION_BITS_V4, VERSION_MASK } from "@constants/uuid-verisions.constant";
+import generateRandomUint32 from "@utils/generate-random-uint-32";
 
 export function uuidv4() {
   const randomUint32Array = Uint32Array.of(
