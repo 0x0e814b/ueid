@@ -1,0 +1,67 @@
+# Emoji Data for UTR #51
+#
+# File:    emoji-data.txt
+# Version: 1.0
+# Date:    2015-08-04
+#
+# Copyright (c) 2015 Unicode, Inc.
+# For terms of use, see http://www.unicode.org/terms_of_use.html
+# For documentation and usage, see http://www.unicode.org/reports/tr51/
+#
+# Format: Code ; Default_Emoji_Style ; Emoji_Level ; Emoji_Modifier_Status ; Emoji_Sources # Comment
+#
+#   Field 1 — Default_Emoji_Style:
+#             text:      default text presentation
+#             emoji:     default emoji presentation
+#   Field 2 — Emoji_Level:
+#             L1:        level 1 emoji
+#             L2:        level 2 emoji
+#             NA:        not applicable
+#   Field 3 — Emoji_Modifier_Status:
+#             modifier:  an emoji modifier
+#             primary:   a primary emoji modifier base
+#             secondary: a secondary emoji modifier base
+#             none:      not applicable
+#   Field 4 — Emoji_Sources:
+#             one or more values from {z, a, j, w, x}
+#             see the key in http://unicode.org/reports/tr51#Major_Sources
+#             NA:        not applicable
+#   Comment — currently contains the version where the character was first encoded,
+#             followed by:
+#             - a character name in uppercase (for a single character),
+#             - a keycap name,
+#             - an associated flag, where is associated with value unicode region code
+#
+1F6A5 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚥) HORIZONTAL TRAFFIC LIGHT
+1F6A6 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚦) VERTICAL TRAFFIC LIGHT
+1F6A7 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚧) CONSTRUCTION SIGN
+1F6A8 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚨) POLICE CARS REVOLVING LIGHT
+1F6A9 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚩) TRIANGULAR FLAG ON POST
+1F6AA ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚪) DOOR
+1F6AB ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚫) NO ENTRY SIGN
+1F6AC ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚬) SMOKING SYMBOL
+1F6AD ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🚭) NO SMOKING SYMBOL
+1F6AE ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚮) PUT LITTER IN ITS PLACE SYMBOL
+1F6AF ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚯) DO NOT LITTER SYMBOL
+1F6B0 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚰) POTABLE WATER SYMBOL
+1F6B1 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚱) NON-POTABLE WATER SYMBOL
+1F6B2 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🚲) BICYCLE
+1F6B3 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚳) NO BICYCLES
+1F6B4 ;	emoji ;	L1 ;	secondary ;	x	# V6.0 (🚴) BICYCLIST
+1F6B5 ;	emoji ;	L1 ;	secondary ;	x	# V6.0 (🚵) MOUNTAIN BICYCLIST
+1F6B6 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (🚶) PEDESTRIAN
+1F6B7 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚷) NO PEDESTRIANS
+1F6B8 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚸) CHILDREN CROSSING
+1F6B9 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🚹) MENS SYMBOL
+1F6BA ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🚺) WOMENS SYMBOL
+1F6BB ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚻) RESTROOM
+1F6BC ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🚼) BABY SYMBOL
+1F6BD ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚽) TOILET
+1F6BE ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚾) WATER CLOSET
+1F6BF ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚿) SHOWER
+1F6C0 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (🛀) BATH
+1F6C1 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🛁) BATHTUB
+1F6C2 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🛂) PASSPORT CONTROL
+1F6C3 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🛃) CUSTOMS
+1F6C4 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🛄) BAGGAGE CLAIM
+1F6C5 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🛅) LEFT LUGGAGE

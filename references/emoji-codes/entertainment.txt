@@ -1,0 +1,86 @@
+# Emoji Data for UTR #51
+#
+# File:    emoji-data.txt
+# Version: 1.0
+# Date:    2015-08-04
+#
+# Copyright (c) 2015 Unicode, Inc.
+# For terms of use, see http://www.unicode.org/terms_of_use.html
+# For documentation and usage, see http://www.unicode.org/reports/tr51/
+#
+# Format: Code ; Default_Emoji_Style ; Emoji_Level ; Emoji_Modifier_Status ; Emoji_Sources # Comment
+#
+#   Field 1 — Default_Emoji_Style:
+#             text:      default text presentation
+#             emoji:     default emoji presentation
+#   Field 2 — Emoji_Level:
+#             L1:        level 1 emoji
+#             L2:        level 2 emoji
+#             NA:        not applicable
+#   Field 3 — Emoji_Modifier_Status:
+#             modifier:  an emoji modifier
+#             primary:   a primary emoji modifier base
+#             secondary: a secondary emoji modifier base
+#             none:      not applicable
+#   Field 4 — Emoji_Sources:
+#             one or more values from {z, a, j, w, x}
+#             see the key in http://unicode.org/reports/tr51#Major_Sources
+#             NA:        not applicable
+#   Comment — currently contains the version where the character was first encoded,
+#             followed by:
+#             - a character name in uppercase (for a single character),
+#             - a keycap name,
+#             - an associated flag, where is associated with value unicode region code
+#
+1F3A0 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎠) CAROUSEL HORSE
+1F3A1 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎡) FERRIS WHEEL
+1F3A2 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎢) ROLLER COASTER
+1F3A3 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎣) FISHING POLE AND FISH
+1F3A4 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎤) MICROPHONE
+1F3A5 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎥) MOVIE CAMERA
+1F3A6 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎦) CINEMA
+1F3A7 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🎧) HEADPHONE
+1F3A8 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎨) ARTIST PALETTE
+1F3A9 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎩) TOP HAT
+1F3AA ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎪) CIRCUS TENT
+1F3AB ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎫) TICKET
+1F3AC ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🎬) CLAPPER BOARD
+1F3AD ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🎭) PERFORMING ARTS
+1F3AE ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🎮) VIDEO GAME
+1F3AF ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎯) DIRECT HIT
+1F3B0 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎰) SLOT MACHINE
+1F3B1 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎱) BILLIARDS
+1F3B2 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎲) GAME DIE
+1F3B3 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎳) BOWLING
+1F3B4 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎴) FLOWER PLAYING CARDS
+1F3B5 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎵) MUSICAL NOTE
+1F3B6 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎶) MULTIPLE MUSICAL NOTES
+1F3B7 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎷) SAXOPHONE
+1F3B8 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎸) GUITAR
+1F3B9 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎹) MUSICAL KEYBOARD
+1F3BA ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎺) TRUMPET
+1F3BB ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎻) VIOLIN
+1F3BC ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎼) MUSICAL SCORE
+1F3BD ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎽) RUNNING SHIRT WITH SASH
+1F3BE ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎾) TENNIS RACQUET AND BALL
+1F3BF ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎿) SKI AND SKI BOOT
+1F3C0 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏀) BASKETBALL AND HOOP
+1F3C1 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏁) CHEQUERED FLAG
+1F3C2 ;	emoji ;	L1 ;	secondary ;	j w	# V6.0 (🏂) SNOWBOARDER
+1F3C3 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (🏃) RUNNER
+1F3C4 ;	emoji ;	L1 ;	secondary ;	j w	# V6.0 (🏄) SURFER
+1F3C5 ;	emoji ;	L2 ;	none ;	x	# V7.0 (🏅) SPORTS MEDAL
+1F3C6 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🏆) TROPHY
+1F3C7 ;	emoji ;	L1 ;	secondary ;	x	# V6.0 (🏇) HORSE RACING
+1F3C8 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏈) AMERICAN FOOTBALL
+1F3C9 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🏉) RUGBY FOOTBALL
+1F3CA ;	emoji ;	L1 ;	secondary ;	j w	# V6.0 (🏊) SWIMMER
+1F3CB ;	text ;	L2 ;	none ;	w	# V7.0 (🏋) WEIGHT LIFTER
+1F3CC ;	text ;	L2 ;	none ;	w	# V7.0 (🏌) GOLFER
+1F3CD ;	text ;	L2 ;	none ;	w	# V7.0 (🏍) RACING MOTORCYCLE
+1F3CE ;	text ;	L2 ;	none ;	w	# V7.0 (🏎) RACING CAR
+1F3CF ;	emoji ;	L2 ;	none ;	x	# V8.0 (🏏) CRICKET BAT AND BALL
+1F3D0 ;	emoji ;	L2 ;	none ;	x	# V8.0 (🏐) VOLLEYBALL
+1F3D1 ;	emoji ;	L2 ;	none ;	x	# V8.0 (🏑) FIELD HOCKEY STICK AND BALL
+1F3D2 ;	emoji ;	L2 ;	none ;	x	# V8.0 (🏒) ICE HOCKEY STICK AND PUCK
+1F3D3 ;	emoji ;	L2 ;	none ;	x	# V8.0 (🏓) TABLE TENNIS PADDLE AND BALL

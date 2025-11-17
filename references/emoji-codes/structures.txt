@@ -1,0 +1,50 @@
+# Emoji Data for UTR #51
+#
+# File:    emoji-data.txt
+# Version: 1.0
+# Date:    2015-08-04
+#
+# Copyright (c) 2015 Unicode, Inc.
+# For terms of use, see http://www.unicode.org/terms_of_use.html
+# For documentation and usage, see http://www.unicode.org/reports/tr51/
+#
+# Format: Code ; Default_Emoji_Style ; Emoji_Level ; Emoji_Modifier_Status ; Emoji_Sources # Comment
+#
+#   Field 1 — Default_Emoji_Style:
+#             text:      default text presentation
+#             emoji:     default emoji presentation
+#   Field 2 — Emoji_Level:
+#             L1:        level 1 emoji
+#             L2:        level 2 emoji
+#             NA:        not applicable
+#   Field 3 — Emoji_Modifier_Status:
+#             modifier:  an emoji modifier
+#             primary:   a primary emoji modifier base
+#             secondary: a secondary emoji modifier base
+#             none:      not applicable
+#   Field 4 — Emoji_Sources:
+#             one or more values from {z, a, j, w, x}
+#             see the key in http://unicode.org/reports/tr51#Major_Sources
+#             NA:        not applicable
+#   Comment — currently contains the version where the character was first encoded,
+#             followed by:
+#             - a character name in uppercase (for a single character),
+#             - a keycap name,
+#             - an associated flag, where is associated with value unicode region code
+#
+1F3E0 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🏠) HOUSE BUILDING
+1F3E1 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏡) HOUSE WITH GARDEN
+1F3E2 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏢) OFFICE BUILDING
+1F3E3 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏣) JAPANESE POST OFFICE
+1F3E4 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🏤) EUROPEAN POST OFFICE
+1F3E5 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏥) HOSPITAL
+1F3E6 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏦) BANK
+1F3E7 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏧) AUTOMATED TELLER MACHINE
+1F3E8 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏨) HOTEL
+1F3E9 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏩) LOVE HOTEL
+1F3EA ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏪) CONVENIENCE STORE
+1F3EB ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏫) SCHOOL
+1F3EC ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏬) DEPARTMENT STORE
+1F3ED ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🏭) FACTORY
+1F3EE ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏮) IZAKAYA LANTERN
+1F3EF ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏯) JAPANESE CASTLE

@@ -1,0 +1,78 @@
+# Emoji Data for UTR #51
+#
+# File:    emoji-data.txt
+# Version: 1.0
+# Date:    2015-08-04
+#
+# Copyright (c) 2015 Unicode, Inc.
+# For terms of use, see http://www.unicode.org/terms_of_use.html
+# For documentation and usage, see http://www.unicode.org/reports/tr51/
+#
+# Format: Code ; Default_Emoji_Style ; Emoji_Level ; Emoji_Modifier_Status ; Emoji_Sources # Comment
+#
+#   Field 1 — Default_Emoji_Style:
+#             text:      default text presentation
+#             emoji:     default emoji presentation
+#   Field 2 — Emoji_Level:
+#             L1:        level 1 emoji
+#             L2:        level 2 emoji
+#             NA:        not applicable
+#   Field 3 — Emoji_Modifier_Status:
+#             modifier:  an emoji modifier
+#             primary:   a primary emoji modifier base
+#             secondary: a secondary emoji modifier base
+#             none:      not applicable
+#   Field 4 — Emoji_Sources:
+#             one or more values from {z, a, j, w, x}
+#             see the key in http://unicode.org/reports/tr51#Major_Sources
+#             NA:        not applicable
+#   Comment — currently contains the version where the character was first encoded,
+#             followed by:
+#             - a character name in uppercase (for a single character),
+#             - a keycap name,
+#             - an associated flag, where is associated with value unicode region code
+#
+1F354 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍔) HAMBURGER
+1F355 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍕) SLICE OF PIZZA
+1F356 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍖) MEAT ON BONE
+1F357 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍗) POULTRY LEG
+1F358 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍘) RICE CRACKER
+1F359 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍙) RICE BALL
+1F35A ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍚) COOKED RICE
+1F35B ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍛) CURRY AND RICE
+1F35C ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍜) STEAMING BOWL
+1F35D ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍝) SPAGHETTI
+1F35E ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍞) BREAD
+1F35F ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍟) FRENCH FRIES
+1F360 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍠) ROASTED SWEET POTATO
+1F361 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍡) DANGO
+1F362 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍢) ODEN
+1F363 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍣) SUSHI
+1F364 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍤) FRIED SHRIMP
+1F365 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍥) FISH CAKE WITH SWIRL DESIGN
+1F366 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍦) SOFT ICE CREAM
+1F367 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍧) SHAVED ICE
+1F368 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍨) ICE CREAM
+1F369 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍩) DOUGHNUT
+1F36A ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍪) COOKIE
+1F36B ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍫) CHOCOLATE BAR
+1F36C ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍬) CANDY
+1F36D ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍭) LOLLIPOP
+1F36E ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍮) CUSTARD
+1F36F ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍯) HONEY POT
+1F370 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍰) SHORTCAKE
+1F371 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍱) BENTO BOX
+1F372 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍲) POT OF FOOD
+1F373 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍳) COOKING
+1F374 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍴) FORK AND KNIFE
+1F375 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍵) TEACUP WITHOUT HANDLE
+1F376 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍶) SAKE BOTTLE AND CUP
+1F377 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍷) WINE GLASS
+1F378 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🍸) COCKTAIL GLASS
+1F379 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍹) TROPICAL DRINK
+1F37A ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍺) BEER MUG
+1F37B ;	emoji ;	L1 ;	none ;	j	# V6.0 (🍻) CLINKING BEER MUGS
+1F37C ;	emoji ;	L1 ;	none ;	x	# V6.0 (🍼) BABY BOTTLE
+1F37D ;	text ;	L2 ;	none ;	w	# V7.0 (🍽) FORK AND KNIFE WITH PLATE
+1F37E ;	emoji ;	L2 ;	none ;	x	# V8.0 (🍾) BOTTLE WITH POPPING CORK
+1F37F ;	emoji ;	L2 ;	none ;	x	# V8.0 (🍿) POPCORN

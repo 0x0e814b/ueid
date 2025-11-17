@@ -1,0 +1,69 @@
+# Emoji Data for UTR #51
+#
+# File:    emoji-data.txt
+# Version: 1.0
+# Date:    2015-08-04
+#
+# Copyright (c) 2015 Unicode, Inc.
+# For terms of use, see http://www.unicode.org/terms_of_use.html
+# For documentation and usage, see http://www.unicode.org/reports/tr51/
+#
+# Format: Code ; Default_Emoji_Style ; Emoji_Level ; Emoji_Modifier_Status ; Emoji_Sources # Comment
+#
+#   Field 1 — Default_Emoji_Style:
+#             text:      default text presentation
+#             emoji:     default emoji presentation
+#   Field 2 — Emoji_Level:
+#             L1:        level 1 emoji
+#             L2:        level 2 emoji
+#             NA:        not applicable
+#   Field 3 — Emoji_Modifier_Status:
+#             modifier:  an emoji modifier
+#             primary:   a primary emoji modifier base
+#             secondary: a secondary emoji modifier base
+#             none:      not applicable
+#   Field 4 — Emoji_Sources:
+#             one or more values from {z, a, j, w, x}
+#             see the key in http://unicode.org/reports/tr51#Major_Sources
+#             NA:        not applicable
+#   Comment — currently contains the version where the character was first encoded,
+#             followed by:
+#             - a character name in uppercase (for a single character),
+#             - a keycap name,
+#             - an associated flag, where is associated with value unicode region code
+#
+1F680 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚀) ROCKET
+1F681 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚁) HELICOPTER
+1F682 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚂) STEAM LOCOMOTIVE
+1F683 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚃) RAILWAY CAR
+1F684 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚄) HIGH-SPEED TRAIN
+1F685 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚅) HIGH-SPEED TRAIN WITH BULLET NOSE
+1F686 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚆) TRAIN
+1F687 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🚇) METRO
+1F688 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚈) LIGHT RAIL
+1F689 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚉) STATION
+1F68A ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚊) TRAM
+1F68B ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚋) TRAM CAR
+1F68C ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚌) BUS
+1F68D ;	emoji ;	L1 ;	none ;	w	# V6.0 (🚍) ONCOMING BUS
+1F68E ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚎) TROLLEYBUS
+1F68F ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚏) BUS STOP
+1F690 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚐) MINIBUS
+1F691 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🚑) AMBULANCE
+1F692 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚒) FIRE ENGINE
+1F693 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚓) POLICE CAR
+1F694 ;	emoji ;	L1 ;	none ;	w	# V6.0 (🚔) ONCOMING POLICE CAR
+1F695 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚕) TAXI
+1F696 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚖) ONCOMING TAXI
+1F697 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚗) AUTOMOBILE
+1F698 ;	emoji ;	L1 ;	none ;	w	# V6.0 (🚘) ONCOMING AUTOMOBILE
+1F699 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚙) RECREATIONAL VEHICLE
+1F69A ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚚) DELIVERY TRUCK
+1F69B ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚛) ARTICULATED LORRY
+1F69C ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚜) TRACTOR
+1F69D ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚝) MONORAIL
+1F69E ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚞) MOUNTAIN RAILWAY
+1F69F ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚟) SUSPENSION RAILWAY
+1F6A0 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚠) MOUNTAIN CABLEWAY
+1F6A1 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚡) AERIAL TRAMWAY
+1F6A2 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚢) SHIP
